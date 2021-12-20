@@ -1,0 +1,410 @@
+{
+  "big": {
+    "红烧肉": {
+      "material": ["五花肉", "干辣椒","姜","葱","八角","白砂糖","黄酒","冰糖"],
+      "reference": "https://home.meishichina.com/recipe-190080.html"
+    },
+    "红烧排骨": {
+      "material": ["猪肋骨","老抽","姜","葱","八角","料酒"],
+      "reference": "https://home.meishichina.com/recipe-383209.html"
+    },
+    "糖醋排骨": {
+     "material" : ["猪肋骨","醋","生抽"],
+      "reference":"https://home.meishichina.com/recipe-240336.html"
+    },
+    "水煮鱼": {
+     "material" : ["草鱼肉","水煮鱼调料包","黄瓜","花椒","生姜","大蒜","干辣椒","生粉"],
+      "reference":"https://home.meishichina.com/recipe-240336.html"
+    },
+    "红烧鲫鱼": {
+     "material" : ["鲫鱼"],
+      "reference":"https://home.meishichina.com/recipe-439132.html"
+    },
+    "鱼香肉丝": {
+     "material" : ["肉丝","胡萝卜","杏鲍菇","木耳","青椒","淀粉"],
+      "reference":"https://home.meishichina.com/recipe-430178.html"
+    },
+    "回锅肉": {
+       "material" : ["五花肉","青蒜苗","青椒","红椒","豆瓣酱","花椒"],
+      "reference":"https://home.meishichina.com/recipe-236158.html"
+    },
+    "口水鸡": {
+       "material" : ["鸡大腿","花椒"],
+      "reference":"https://home.meishichina.com/recipe-399256.html"
+    },
+    "红烧猪蹄": {
+       "material" : ["猪蹄","干辣椒","桂皮","白酒","冰糖","花椒","生姜","葱"],
+      "reference": "https://home.meishichina.com/recipe-402565.html"
+    },
+    "酸菜鱼": {
+      "material": ["草鱼","酸菜","泡椒","白酒","干辣椒","葱"],
+      "reference":"https://home.meishichina.com/recipe-384673.html"
+    },
+    "啤酒鸭": {
+      "material": ["鸭肉","啤酒","香菇","土豆","泡椒","花椒","八角","大蒜"],
+      "reference":"https://home.meishichina.com/recipe-415852.html"
+    },
+    "宫保鸡丁": {
+      "material": ["鸡腿", "胡萝卜","杏鲍菇","葱","花生米","料酒"],
+      "reference": "https://home.meishichina.com/recipe-457871.html"
+    },
+    "剁椒鱼头": {
+      "material": ["鱼头", "剁辣椒"],
+      "reference": "https://home.meishichina.com/recipe-432487.html"
+    },
+    "粉蒸肉": {
+     "material": ["五花肉","蒸肉米粉", "腐乳", "胡椒粉","土豆"],
+      "reference": "https://home.meishichina.com/recipe-302135.html"
+    },
+    "红烧牛肉": {
+      "material": ["牛腱子肉","胡萝卜","郫县豆瓣","花椒"],
+      "reference": "https://home.meishichina.com/recipe-148678.html"
+    },
+    "辣子鸡": {
+     "material": ["鸡肉","花生米","干红辣椒","蚝油","白芝麻"],
+      "reference":"https://home.meishichina.com/recipe-583752.html"
+    },
+    "糖醋鱼": {
+     "material": ["鲤鱼","青椒","红椒","生姜","香葱","淀粉","番茄酱","白糖","白醋"],
+      "reference":"https://home.meishichina.com/recipe-111896.html"
+    },
+    "白萝卜炖排骨": {
+     "material": ["排骨","萝卜"],
+      "reference": "https://home.meishichina.com/recipe-209342.html"
+    },
+    "海带炖排骨": {
+      "material": ["排骨","海带"],
+      "reference": "https://home.meishichina.com/recipe-567646.html"
+    },
+    "小鸡炖蘑菇": {
+      "material": ["散养鸡","干香菇"],
+      "reference": "https://home.meishichina.com/recipe-258117.html"
+    },
+    "板栗烧鸡": {
+     "material": ["鸡肉","板栗","香叶","八角","干辣椒"],
+      "reference": "https://home.meishichina.com/recipe-550580.html"
+    },
+    "梅菜扣肉": {
+      "material": ["五花肉","梅干菜","八角","干辣椒"],
+      "reference": "https://home.meishichina.com/recipe-333193.html"
+    },
+    "大盘鸡": {
+     "material": ["鸡肉","土豆","番茄","胡萝卜","青椒","红椒","香菇","孜然粉","八角","花椒","香菜","醋"],
+      "reference":"https://home.meishichina.com/recipe-71892.html"
+    },
+    "鲫鱼豆腐汤": {
+     "material": ["鲫鱼","豆腐"],
+      "reference": "https://home.meishichina.com/recipe-246275.html"
+    },
+    "乌鸡汤": {
+      "material": ["乌鸡","枸杞","红枣","姜","山药"],
+      "reference": "https://home.meishichina.com/recipe-474800.html"
+    },
+    "鸽子汤": {
+     "material": ["鸽子","山药","枸杞","姜"],
+      "reference": "https://home.meishichina.com/recipe-301712.html"
+    },
+    "莲藕顿排骨": {
+      "material": ["排骨","莲藕","姜","枸杞","甘草"],
+      "reference": "https://home.meishichina.com/recipe-581805.html"
+    },
+    "水蒸蛋": {
+     "material": ["鸡蛋"],
+      "reference":  "https://home.meishichina.com/recipe-505289.html"
+    },
+    "清蒸鲈鱼": {
+     "material": ["鲈鱼","葱","红椒","姜"],
+      "reference":  "https://home.meishichina.com/recipe-543363.html"
+    },
+    "孜然羊肉": {
+       "material": ["羊后腿肉","香菜","洋葱","孜然","孜然粉","姜", "辣椒粉","芝麻","料酒"],
+      "reference": "https://home.meishichina.com/recipe-427009.html"
+    },
+    "家常豆腐":{
+       "material": ["豆腐","西红柿","葱","姜","蒜"],
+      "reference": "https://home.meishichina.com/recipe-219081.html"
+    },
+    "葱爆羊肉": {
+       "material": ["羊肉","大葱", "红尖椒","孜然粉","香菜","姜","蒜"],
+      "reference": "https://home.meishichina.com/recipe-505556.html"
+    },
+    "山药排骨汤": {
+      "material": ["排骨","山药"],
+      "reference": "https://home.meishichina.com/recipe-527560.html"
+    },
+    "玉米排骨汤": {
+      "material": ["排骨","玉米"],
+      "reference": "https://home.meishichina.com/recipe-505173.html"
+    },
+    "冬瓜排骨汤": {
+     "material": ["排骨","冬瓜"],
+      "reference": "https://home.meishichina.com/recipe-268020.html"
+    },
+    "芹菜烧香干": {
+     "material": ["芹菜","香干","瘦肉","豆瓣酱","花椒粉"],
+      "reference": "https://home.meishichina.com/recipe-498485.html"
+    },
+
+    "萝卜牛腩": {
+     "material": ["牛腩","白萝卜"],
+      "reference": "https://www.haodou.com/recipe/402087"
+    },
+    "猪肚鸡": {
+      "material": ["猪肚","鸡肉","枸杞"],
+      "reference": "https://www.haodou.com/recipe/404174"
+    },
+    "凉瓜牛肉": {
+     "material": ["苦瓜","牛肉","洋葱","鸡蛋"],
+      "reference": "https://www.haodou.com/recipe/286494"
+    },
+    "白灼虾": {
+     "material": ["基围虾"],
+      "reference":  "https://www.haodou.com/recipe/233615"
+    },
+    "椒盐虾": {
+     "material": ["基围虾"],
+      "reference":  "https://www.haodou.com/recipe/233615"
+    },
+    "东安鸡": {
+     "material": ["鸡","红辣椒","仔姜","花椒","胡椒","白醋"],
+      "reference": "https://baike.baidu.com/item/%E4%B8%9C%E5%AE%89%E5%AD%90%E9%B8%A1/1336147"
+    },
+    "永州血鸭": {
+     "material": ["鸭肉","鸭血","仔姜","干红椒","啤酒"],
+      "reference":"https://baike.baidu.com/item/%E6%B0%B8%E5%B7%9E%E8%A1%80%E9%B8%AD/7334118"
+    },
+    "邵阳猪血丸子": {
+     "material":["邵阳猪血丸子","青蒜苗","红辣椒","小米椒"],
+      "reference":"https://baike.baidu.com/item/%E9%82%B5%E9%98%B3%E7%8C%AA%E8%A1%80%E4%B8%B8%E5%AD%90/3621568"
+    },
+     "爆炒猪肝": {
+     "material":["猪肝","辣椒","洋葱","蚝油"],
+      "reference":"https://home.meishichina.com/recipe-81748.html"
+    },
+    "爆炒腰花": {
+     "material":["猪腰子","辣椒","洋葱","木耳","蚝油"],
+      "reference":"https://home.meishichina.com/recipe-81748.html"
+    },
+    "滑蛋虾仁": {
+     "material":["虾","鸡蛋"],
+      "reference": "https://www.xinshipu.com/zuofa/567890"
+    },
+    "荷兰豆炒腊肠": {
+     "material":["香肠","荷兰豆"],
+      "reference": "https://www.xinshipu.com/zuofa/228992"
+    },
+    "爆炒花甲": {
+      "material":["花甲","葱","辣椒"],
+      "reference": "https://www.xinshipu.com/zuofa/248628"
+    },
+    "泡椒牛蛙": {
+     "material":["牛蛙", "泡椒"],
+      "reference": "https://www.xinshipu.com/zuofa/195733"
+    },
+    "爆炒鳝鱼": {
+      "material":["黄鳝", "干辣椒","青蒜苗"],
+      "reference":  "https://www.xinshipu.com/zuofa/223442"
+    },
+    "清蒸武昌鱼": {
+     "material":["武昌鱼"],
+      "reference": "https://www.xinshipu.com/zuofa/16649"
+    },
+    "爆炒蛏子": {
+     "material":["蛏子"],
+      "reference": "https://www.xinshipu.com/zuofa/12378"
+    },
+    "清蒸多宝鱼": {
+     "material":["多宝鱼"],
+      "reference": "https://www.xinshipu.com/zuofa/172750"
+    },
+    "爆炒鱿鱼须": {
+     "material":["鱿鱼"],
+      "reference": "https://www.xinshipu.com/zuofa/1524"
+    },
+    "红烧泥鳅": {
+     "material":["泥鳅"],
+      "reference": "https://www.xinshipu.com/zuofa/146849"
+    },
+    "姜爆鸭子": {
+     "material":["鸭肉", "仔姜", "小米椒", "八角"],
+      "reference": "http://www.meishij.net/zuofa/jiangbaoyazi_2.html"
+    },
+
+    "脆辣鸭胗": {
+     "material": ["鸭胗", "酸豆角"],
+      "reference": "https://www.xinshipu.com/zuofa/426165"
+    },
+    "白萝卜炖羊肉": {
+      "material": ["羊肉", "白萝卜"],
+      "reference": "https://www.xinshipu.com/zuofa/68064"
+    }
+  },
+  "mid": {
+    "干锅花菜": {
+     "material": ["花菜", "五花肉", "干辣椒"],
+      "reference": "http://www.meishij.net/zuofa/xianglachixiangganguohuacai.html"
+    },
+    "蒜苔炒肉": {
+     "material": ["蒜苔", "瘦肉"],
+      "reference":"http://www.meishij.net/zuofa/xianglachixiangganguohuacai.html"
+    },
+   "西红柿炒鸡蛋": {
+      "material": ["西红柿","鸡蛋"],
+      "reference":"https://home.meishichina.com/recipe-493105.html"
+    },
+    "韭黄炒鸡蛋": {
+     "material": ["韭黄", "炒鸡蛋"],
+      "reference":"http://www.meishij.net/zuofa/xianglachixiangganguohuacai.html"
+    },
+    "农家小炒肉": {
+     "material": ["猪肉","螺丝椒","豆豉","大蒜"],
+      "reference": "https://home.meishichina.com/recipe-303591.html"
+    },
+    "青椒炒鸡蛋": {
+     "material": ["青辣椒","鸡蛋","红辣椒"],
+      "reference": "https://home.meishichina.com/recipe-198317.html"
+    },
+    "黄瓜炒鸡蛋": {
+     "material": ["青辣椒","鸡蛋","黄瓜","葱"],
+      "reference": "https://home.meishichina.com/recipe-268152.html"
+    },
+    "青椒炒肉丝": {
+     "material": ["猪肉","青椒","大蒜"],
+      "reference": "https://home.meishichina.com/recipe-303591.html"
+    },
+    "木须肉": {
+     "material": ["猪肉","鸡蛋","黄瓜","木耳","胡萝卜","葱花"],
+      "reference": "https://home.meishichina.com/recipe-553375.html"
+    },
+    "韭菜炒鸡蛋": {
+      "material": ["韭菜", "鸡蛋"],
+      "reference": "https://home.meishichina.com/recipe-215207.html"
+    },
+    "韭菜炒香干": {
+     "material": ["韭菜", "香干", "红椒"],
+      "reference": "https://home.meishichina.com/recipe-215207.html"
+    },
+    "木耳炒肉": {
+     "material": ["猪肉","木耳","芹菜","红椒","青椒","大蒜"],
+      "reference": "https://home.meishichina.com/recipe-30769.html"
+    }
+  },
+  "small": {
+    "红烧茄子": {
+     "material": ["茄子","西红柿","青椒","红椒","番茄酱","白砂糖","淀粉"],
+      "reference": "https://home.meishichina.com/recipe-434031.html"
+    },
+    "酸辣土豆丝": {
+      "material": ["土豆","醋","干辣椒","花椒","葱","蒜"],
+      "reference": "https://home.meishichina.com/recipe-450206.html"
+    },
+    "麻婆豆腐": {
+     "material": ["豆腐","花椒","郫县豆瓣酱"],
+      "reference": "https://home.meishichina.com/recipe-430348.html"
+    },
+    "手撕包菜": {
+      "material": ["包菜","干辣椒","花椒"],
+      "reference": "https://home.meishichina.com/recipe-530930.html"
+    },
+    "干煸四季豆": {
+      "material": ["四季豆","干辣椒","蒜","姜"],
+      "reference": "https://home.meishichina.com/recipe-238176.html"
+    },
+    "拍黄瓜": {
+      "material": ["黄瓜","老干妈辣酱","泡椒","香菜","大蒜","葱","小米椒"],
+      "reference" : "https://home.meishichina.com/recipe-456309.html"
+    },
+    "西芹百合黑木耳": {
+     "material": ["西芹","黑木耳","百合"],
+      "reference": "https://home.meishichina.com/recipe-211396.html"
+    },
+    "青椒土豆丝": {
+     "material": ["青椒","土豆"],
+      "reference":  "https://home.meishichina.com/recipe-196622.html"
+    },
+    "紫菜蛋汤": {
+      "material": ["紫菜","鸡蛋"],
+      "reference": "https://home.meishichina.com/recipe-211117.html"
+    },
+    "凉拌皮蛋": {
+      "material": ["皮蛋","醋","蒜"],
+      "reference":  "https://www.xinshipu.com/zuofa/6445"
+    },
+    "大蒜炒西兰花": {
+     "material": ["西兰花"],
+      "reference":  "https://www.xinshipu.com/zuofa/73727"
+    },
+    "白灼芦笋": {
+     "material": ["芦笋"],
+      "reference":  "https://www.xinshipu.com/zuofa/12530"
+    },
+    "清炒莲藕 ": {
+     "material": ["莲藕"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒莴笋": {
+      "material": ["莴笋"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒生菜": {
+     "material": ["生菜"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒白菜": {
+     "material": ["白菜"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒丝瓜": {
+     "material": ["丝瓜"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒冬瓜": {
+     "material": ["冬瓜"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒菜心": {
+     "material": ["菜心"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒豆芽": {
+     "material": ["豆芽"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒芥菜": {
+     "material": ["芥菜"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒西兰花": {
+     "material": ["西兰花"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒山药": {
+     "material": ["山药"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "凉拌海带丝": {
+     "material": ["海带丝"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "火腿玉米粒": {
+     "material": ["火腿肠","玉米粒"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒茼蒿": {
+     "material": ["茼蒿"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "清炒西洋菜": {
+     "material": ["西洋菜"],
+      "reference": "https://www.xinshipu.com/zuofa/219"
+    },
+    "凉拌鱼腥草": {
+      "material": ["鱼腥草"],
+      "reference": "https://www.xinshipu.com/zuofa/1351"
+    },
+    "鸭血豆腐汤": {
+     "material": ["鸭血", "豆腐"],
+      "reference": "https://www.xinshipu.com/zuofa/160103"
+    }
+  }
+}
