@@ -34,14 +34,28 @@ def main():
             x = random.choices(small)[0]
             result_small.add(x)
 
+        print('==大菜==')
         for b in result_big:
-            print('{}:{}'.format(b, j['big'][b]['material']))
-        print("=======================")
+            print('{}'.format(b))
+            print('{}'.format(j['big'][b]['material']))
+            print('')
+
+        print('')
+        print('')
+        print('==中菜==')
+        print('')
+        print('')
         for m in result_mid:
-            print('{}:{}'.format(m, j['mid'][m]['material']))
-        print("=======================")
+            print('{}'.format(m))
+            print('{}'.format(j['mid'][m]['material']))
+            print('')
+        print('')
+        print('')
+        print('==小菜==')
         for s in result_small:
-            print('{}:{}'.format(s, j['small'][s]['material']))
+            print('{}'.format(s))
+            print('{}'.format(j['small'][s]['material']))
+            print('')
 
     pass
 
